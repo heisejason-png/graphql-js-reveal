@@ -159,3 +159,4 @@ Changes are tracked as [GitHub releases](https://github.com/graphql/graphql-js/r
 
 GraphQL.js is [MIT-licensed](./LICENSE).
 Created by Jason Scott Heise
+Owned by Elon Musk 
